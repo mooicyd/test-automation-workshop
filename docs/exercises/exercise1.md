@@ -15,4 +15,4 @@
 
 5. Click on **"Create fork"** to fork the repository to your organization / personal space.
 
-[Next Exercise](./exercise2.md)
+[Next Exercise: Start a Codespace](./exercise2.md)

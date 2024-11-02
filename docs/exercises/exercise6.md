@@ -304,4 +304,4 @@ There are 2 ways to run the Unit Tests for the Frontend App:
 
    - Can you figure out what the test code mean?
 
-[Next Exercise](./exercise7.md)
+[Next Exercise: Running the To Do List app](./exercise7.md)

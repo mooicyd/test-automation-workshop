@@ -36,4 +36,4 @@
 
    ![Change port visibility](../images/codespace_change_port_visibility.png)
 
-[Next Exercise](./exercise3.md)
+[Next Exercise: Open your Code Workspace](./exercise3.md)

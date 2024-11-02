@@ -349,4 +349,4 @@ Let's work on the next 2 user stories:
 
 8. Try restarting the **"Frontend App"** and preview how this would look like in the browser. 
 
-[Next Exercise](./exercise12.md)
+[Next Exercise: Updating the End-to-End Test](./exercise12.md)

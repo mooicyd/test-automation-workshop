@@ -18,4 +18,4 @@
 
    ![Select Git Repository](../images/codespace_select_git2.png)
 
-[Next Exercise](./exercise4.md)
+[Next Exercise: Intro to your IDE](./exercise4.md)

@@ -98,4 +98,4 @@ There are 2 ways to run the Unit Tests for the **"Frontend App"**:
 
    - Can you figure out what the code mean?
 
-[Next Exercise](./exercise6.md)
+[Next Exercise: Intro to the Backend App](./exercise6.md)

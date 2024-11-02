@@ -106,4 +106,4 @@ You can view & edit the E2E test files in `End-to-End Tests` workspace. Under th
 
 ![E2E Files](../images/e2e_java_explore_tests.png)
 
-[Next Exercise](./exercise9.md)
+[Next Exercise: About the new feature](./exercise9.md)

@@ -143,4 +143,4 @@ Skip to the portion for your preferred programming language:
 
    > **Note:** Make sure the **"Frontend App"** and **"Backend App"** are running before you run this test.
 
-[Next Exercise](./exercise13.md)
+[Next Exercise: Review the changes](./exercise13.md)

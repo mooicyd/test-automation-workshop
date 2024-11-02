@@ -422,4 +422,4 @@ With the Java implementation, we have quite a number of files to update. We will
 
    ![Run all tests](../images/exercise10/java_6.png)
 
-[Next Exercise](./exercise11.md)
+[Next Exercise: Updating the Frontend](./exercise11.md)

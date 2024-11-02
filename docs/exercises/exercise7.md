@@ -8,4 +8,4 @@
 
     ![Walk through](../images/todolist-app-walkthru.gif)
 
-[Next Exercise](./exercise8.md)
+[Next Exercise: Intro to the Playwright End-to-End Test](./exercise8.md)

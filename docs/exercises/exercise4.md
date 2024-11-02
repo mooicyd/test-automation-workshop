@@ -45,6 +45,6 @@ Use these to navigate around the file system in the Devcontainer.
 - To preview a file without opening it, single click on the file name.
 - Remember to save the file after making changes to it.
 
-[Next Exercise](./exercise5.md)
+[Next Exercise: Intro to the Frontend App](./exercise5.md)
 
 [^CLI]: Command Line Interface
