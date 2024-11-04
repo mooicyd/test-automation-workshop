@@ -81,6 +81,11 @@ We will be using [GitHub Codespace](https://docs.github.com/en/codespaces/overvi
 - [Exercise 13: Review the changes](./docs/exercises/exercise13.md)
 - [Exercise 14: Bonus Exercises](./docs/exercises/exercise14.md)
 
+### Other ways of running this workshop code
+
+- [Run the Codespaces on VSCode on your local machine](./docs/setup/codespaces_on_vscode.md)
+- [Using VSCode with Devcontainers](./docs/setup/dev_container_setup.md)
+
 ## Coding with AI
 
 - [How we created the sample application using AI tools.](./docs/coding_with_ai.md)

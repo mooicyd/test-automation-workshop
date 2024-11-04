@@ -1,6 +1,8 @@
 # Exercise 2: Start a Codespace
 
-1. In your forked repository page, click on **"Code"**, click on the ellipsis (3 dots) button and select **"New with Options"**.
+> **WARNING**: Please follow through the instructions step by step very **carefully** and not press buttons that are not mentioned inside this doc.
+
+1. In your forked repository page, click on **"Code"**, click on the 3 dots (**"..."**) button and select **"New with Options"**.
 
    ![Create a new Codespace](../images/codespace_new_with_options.png)
 
@@ -8,9 +10,11 @@
 
    ![Create a Codespace form](../images/codespace_create_form.png)
 
-3. In the "Dev container configuration", select the configuration for your preferred programming language. You will be using this programming language for the To Do List backend and test codes.
+3. In the **"Dev container configuration"** row, select the configuration for your preferred programming language. You will be using this programming language for the To Do List backend and test codes.
 
    ![Select a Project Configuration](../images/codespace_project_configuration.png)
+
+   > **Example:** If you would like to do this exercise in **JavaScript**, select the **"JavaScript Dev"** configuration.
 
 4. Next, change **Machine Type** to **"4-core"**.
 
@@ -18,7 +22,7 @@
 
 5. Click on **"Create codespace"**.
 
-6. Your Codespace will take a few minutes to be setup.
+6. Your Codespace will take a few minutes to be setup. It will open a new browser tab.
 
    ![Setting Up](../images/codespace_setting_up.png)
 
